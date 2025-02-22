@@ -21,9 +21,9 @@
 title: The Technical MBA
 email: joseulisesquevedo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Technical MBA is a blog about the intersection of technology and business. It follows my experience as lead of 
+  consulting at a data science consulting firm. Here, I document my learnings about both business and data science as they happen,
+  as well as my reflections on data science, technology and all things related. 
 baseurl: "TheTechnicalMBA" # the subpath of your site, e.g. /blog
 url: "https://joseulisesquevedo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: quevedo_ulises
