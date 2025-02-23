@@ -4,9 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
-## Summary
+## Jose Ulises Quevedo
 
-Data scientist with experience working with Python, SQL, R, and cloud technologies. Experience in data and machine learning projects using TensorFlow, ETL pipelines, and Data Warehousing practices. Professional experience in management consulting and data consulting. Strong problem-solving, statistics, and programming abilities, as well as a passion for languages, reading, and mathematics. Fluent in Spanish, English, Italian, French, and some Russian.
+Currently head of Consulting @ dive.ai, where I help clients implement data science and AI solutions, from the most fundational data warehouse and management solution, to SOTA solutions using LLM's, CV and advanced ML models. As head of consulting, I'm not only tasked with understanding client problems, but translating them into technical solutions and leading the team that implements them. This has lead me to aim for a broad knowledge base rather than a deep one, which is reflected in my multiple interests and knowledge.
+
+Apart from leading the consulting division, I thoroughly enjoy helping everyone in the organization grow to their fullest potential, coding small side-projects with the team and helping out wherever and however I can. Only we can save each other.
 
 ## Work Experience
 
