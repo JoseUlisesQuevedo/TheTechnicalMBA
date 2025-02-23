@@ -34,7 +34,7 @@ Apart from leading the consulting division, I thoroughly enjoy helping everyone 
 
 - Redesigned IMCO’s State Competitiveness Index using Principal Component Analysis to create subindexes and a general index to evaluate state competitiveness.
 - Improved IMCO’s Compara Carreras webpage by redesigning the webpage and making it more responsive, increasing traffic by ~20% based on visits in the first month of release.
-- Teaches an undergraduate Linear Algebra class and a Differential Calculus class at Universidad Panamericana for engineering students.
+- Teached an undergraduate Linear Algebra class and a Differential Calculus class at Universidad Panamericana for engineering students.
 - Developed end-to-end data product for social listening for a marketing company.
 
 ## Education
@@ -51,9 +51,9 @@ Apart from leading the consulting division, I thoroughly enjoy helping everyone 
 
 ## Technical Capabilities
 
-- **Programming languages:** Python, R, Java, Bash, some C
+- **Programming languages:** Python, R, Java, Bash
 - **Data science technologies:** SQL, NoSQL, ETL Pipelines, TensorFlow, Scikit-learn, R
-- **Additional technical skills:** Git, Git flow, Code reviewing, Systems design, Data Warehousing principles, Parallel programming
+- **Additional technical skills:** Git, Git flow, Code reviewing, Systems design, Data Warehousing principles, Parallel programming, Cloud
 
 ## Technical Projects
 
